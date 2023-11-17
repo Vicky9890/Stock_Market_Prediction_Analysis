@@ -1,4 +1,4 @@
-# Stock Prediction Analysis using Linear Regression Machine Learning Algorithm
+# Stock Prediction 📈 Analysis using Linear Regression Machine Learning Algorithm
 
 This repository contains Python code for conducting stock prediction analysis using linear regression, a fundamental machine learning algorithm. The analysis involves fetching historical stock data through yfinance, preprocessing it using Pandas and NumPy, implementing a linear regression model, and visualizing the predictions using Matplotlib.
 
@@ -31,6 +31,7 @@ You can install the required libraries using pip:
 ```bash
    pip install numpy yfinance pandas matplotlib scikit-learn
 ```
+Just run [stock_prediction_analysis(LinearRegression).ipynb](https://github.com/Vicky9890/Stock_Market_Prediction_Analysis/blob/master/stock_prediction_analysis(LinearRegression).ipynb) code to predict the stock market analysis.
 
 ## About libraries
 
@@ -43,4 +44,14 @@ You can install the required libraries using pip:
 **Matplotlib:** Matplotlib is a popular plotting library in Python used for creating visualizations and graphical representations of data. It offers a wide range of plotting functionalities to create various types of plots and charts.
 
 **scikit-learn:** Scikit-learn, often abbreviated as sklearn, is a popular machine learning library in Python that provides a wide range of tools and algorithms for machine learning tasks.It offers a user-friendly interface for implementing various machine learning models and techniques.
+
+## Output
+
+**Training data set:**
+
+![image](https://github.com/Vicky9890/Stock_Market_Prediction_Analysis/assets/138276603/474c8936-d106-4e6c-ae76-e2dfcd6a8425)
+
+**Testing data set:**
+
+![image](https://github.com/Vicky9890/Stock_Market_Prediction_Analysis/assets/138276603/9ade308c-23cf-484c-a895-6410e5da4675)
 
